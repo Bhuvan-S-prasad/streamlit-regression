@@ -79,7 +79,7 @@ Features include:
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/regression-streamlit.git
+git clone https://github.com/Bhuvan-S-prasad/regression-streamlit.git
 cd regression-streamlit
 ```
 
